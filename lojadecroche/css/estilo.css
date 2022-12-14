@@ -1,0 +1,23 @@
+.textinho{
+    font-family: "Sofia", sans-serif;
+}
+
+a{
+    color: #8C1818;
+}
+
+.imagemred{
+    width: 250px;
+    height: 250px;
+    border: 3px solid;
+    padding: 5px;
+}
+
+.textinhoP{
+    font-family: "Sofia", sans-serif;
+}
+
+.prods{
+    float: left;
+    padding: 100px;
+}
